@@ -1,0 +1,36 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Jep",
+      "foto": "rostros/jep.jpg",
+      "fecha_registro": "2026-04-04",
+      "ultima_entrada": "11:54:01",
+      "lentes": true
+    },
+    {
+      "id": 2,
+      "nombre": "Pablo",
+      "foto": "rostros\\pablo.jpg",
+      "fecha_registro": "2026-04-04",
+      "ultima_entrada": "11:55:56",
+      "lentes": true
+    },
+    {
+      "id": 3,
+      "nombre": "Juan",
+      "foto": "rostros\\juan.jpg",
+      "fecha_registro": "2026-04-11",
+      "ultima_entrada": "11:55:59",
+      "lentes": false
+    },
+    {
+      "id": 4,
+      "nombre": "Jep",
+      "foto": "rostros\\jep.jpg",
+      "fecha_registro": "2026-04-11",
+      "ultima_entrada": "11:54:01",
+      "lentes": false
+    }
+  ]
+}
